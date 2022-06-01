@@ -24,7 +24,7 @@ Example
 }
 ```
 # Download
-Please go to [resources page](http://nlg.csie.ntu.edu.tw/nlpresource/FinProLex/) to access resources.
+Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/FinProLex/FinProLex.zip) to download data.
 
 # How to Cite the Corpus
 Please cite the following paper when referring to the FinProLex in academic publications and papers.
